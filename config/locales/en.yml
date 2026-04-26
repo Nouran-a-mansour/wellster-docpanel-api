@@ -1,0 +1,13 @@
+en:
+  activerecord:
+    errors:
+      models:
+        appointment:
+          attributes:
+            scheduled_at:
+              cannot_be_in_past: "cannot be in the past"
+
+  api:
+    errors:
+      patient_already_assigned: "Patient is already assigned to a doctor"
+      doctor_not_qualified: "Doctor is not qualified to treat this patient's indication"
