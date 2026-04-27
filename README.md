@@ -25,7 +25,7 @@ A JSON REST API built with Ruby on Rails that powers the doctor management panel
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:Nouran-a-mansour/wellster-docpanel-api.git
 cd wellster_api
 ```
 
